@@ -1,9 +1,10 @@
 [
   {
-    "title":  {
+    "title_new":  {
     	"en":"Preset Style",
     	"zh":"预设风格"
     },
+    "title": "Preset Style", 
     "items": [
       {
         "name_en": "Cool Pencil",
